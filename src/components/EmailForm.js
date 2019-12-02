@@ -19,7 +19,7 @@ export class EmailForm extends Component {
   render() {
     const { message } = this.state;
     return (
-      <a class="sign-up button" href="https://avi47.typeform.com/to/rd2cwg">Sign Up</a>
+      <a class="sign-up button" href="https://avi47.typeform.com/to/Nb2F6c">Sign Up</a>
     );
   }
 }
